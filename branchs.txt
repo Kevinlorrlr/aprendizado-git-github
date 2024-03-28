@@ -1,0 +1,21 @@
+Branch - São ramos que podem ser utilizados como algo parecido como um rascunho em que pode alterar o codigo sem que altere o projeto principal sem antes testa-lo. 
+Vale informar se caso tente criar uma branch 'rascunho' antes de fazer o primeiro commit não irá existir uma branch master, somente a branch criada que tambem só será salva ao ser commitada
+
+Comandos BRANCH:
+
+VER BRANCHS - git branch
+
+CRIAR - git branch [nome_branch]
+
+NAVEGAR - git checkout [nome_branch]
+
+DELETAR - git branch -D [nome_branch]
+
+CRIAR E ENTRAR - git checkout -b [nome_branch]
+
+OBS: git checkout tambem funciona para voltar ao ultimo commit feito 
+
+MERGE - Faz a junção de duas branch 
+git merge [nome_branch](que será inserida)
+
+
