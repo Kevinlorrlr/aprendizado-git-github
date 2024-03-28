@@ -1,0 +1,5 @@
+Para colocar seu projeto no githhub, primeiramente é necessário a criação de um repositorio, logo em seguida escolher a pasta que está o projeto, e seguir os passos git(git init, git add ., git commit -m 'comentario'). após isso é necessário linkar seu repositorio ao sua máquina com o comando: git remote add origin https://github.com/Kevinlorrlr/aprendizado-git-github. 
+
+E por fim para adicionar seu projeto(branch) ao repositório basta usar o comando: git push origin nome_branch.  Também é possivel fazer o contrario, pegando atualizações feitas no github e trazer para a sua máquina com o comando: git pull origin nome_branch
+
+Também temos uma função para fazer com que algum(s) sejam ignorados pelo commit, que não deverão serem publicados por serem arquivos com chaves importantes e individuais para cada usuário criando o arquivo .gitignore é possivel fazer isso colocando o nome do arquivo dentro do .gitignore, para mais informacoes acesse o repositorio gitignore(https://github.com/github/gitignore).
