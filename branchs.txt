@@ -1,5 +1,7 @@
-Branch - São ramos que podem ser utilizados como algo parecido como um rascunho em que pode alterar o codigo sem que altere o projeto principal sem antes testa-lo. 
-Vale informar se caso tente criar uma branch 'rascunho' antes de fazer o primeiro commit não irá existir uma branch master, somente a branch criada que tambem só será salva ao ser commitada
+Branch - São ramos que podem ser utilizados como algo parecido como um rascunho em que pode alterar o 
+codigo sem que altere o projeto principal sem antes testa-lo. 
+Vale informar se caso tente criar uma branch 'rascunho' antes de fazer o primeiro 
+commit não irá existir uma branch master, somente a branch criada que tambem só será salva ao ser commitada
 
 Comandos BRANCH:
 
