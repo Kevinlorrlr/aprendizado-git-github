@@ -5,4 +5,6 @@ mais controle do que foi alterado no seu codigo em novas atualizações, ou seja
 é um sistema de registros que facilita o desenvolvedor, ainda mais quando se diz 
 sobre projetos cooperativos. 
 
-GitHub - É uma plataforma de repositórios online que permite com que seja criada uma grande comunidade de desenvolvedores a fins de melhorar códigos e também como um meio de salvar projetos pessoais publicamente.
+GitHub - É uma plataforma de repositórios online que permite com que seja criada 
+uma grande comunidade de desenvolvedores a fins de melhorar códigos e também como 
+um meio de salvar projetos pessoais publicamente.
